@@ -1,3 +1,7 @@
+#  Aviation Accident Data Analysis
+
+A data-driven project exploring aircraft safety using real-world aviation accident data. I cleaned the dataset, analyzed patterns in injury and destruction rates, and identified safer aircraft models.
+
 Aviation Accident Data Project
 
 This project analyzes aviation accident records to identify safer aircraft makes and models, focusing on injury and destruction risks. The goal is to support safety-focused decisions for airlines, insurers, or aviation analysts.
